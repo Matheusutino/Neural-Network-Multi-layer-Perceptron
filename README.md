@@ -5,7 +5,7 @@ This network is in progress, probably contain mistakes!! It might have a great b
 ## To-do list
 
 
-Translate code for 
+Translate code for english
 
 Get a good function for return index of max element in array
 

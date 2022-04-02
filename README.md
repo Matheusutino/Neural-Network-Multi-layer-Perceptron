@@ -4,14 +4,10 @@ This network is in progress, probably contain mistakes!! It might have a great b
 
 ## To-do list
 
-```bash
-Translate code for english
-```
 
-```bash
+Translate code for 
+
 Get a good function for return index of max element in array
-```
 
-```bash
 Convert simples array in vector?
-```
+

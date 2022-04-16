@@ -1,6 +1,6 @@
 # Neural-Network-Multi-layer-Perceptron
 
-This network is in progress, probably contain mistakes!! It might have a great balance for number of hiden layers, number of neurons of hiden layers, epochs and learning rate for great results.
+This network is in progress, therefore need some adjustment.
 
 ## To-do list
 
